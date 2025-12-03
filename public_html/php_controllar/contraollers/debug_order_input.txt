@@ -1,0 +1,6 @@
+Array
+(
+    [item_name] => Classic Aluminium Pressure Cooker
+    [quantity] => 1
+    [price] => 1299
+)

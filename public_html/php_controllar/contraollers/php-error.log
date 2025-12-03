@@ -1,0 +1,20 @@
+[09-Jun-2025 09:27:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'product_id' in 'field list' in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php:54
+Stack trace:
+#0 C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php(54): mysqli->prepare('INSERT INTO rev...')
+#1 {main}
+  thrown in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php on line 54
+[09-Jun-2025 09:36:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'product_id' in 'field list' in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php:54
+Stack trace:
+#0 C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php(54): mysqli->prepare('INSERT INTO rev...')
+#1 {main}
+  thrown in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php on line 54
+[09-Jun-2025 09:40:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'product_id' in 'field list' in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php:54
+Stack trace:
+#0 C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php(54): mysqli->prepare('INSERT INTO rev...')
+#1 {main}
+  thrown in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php on line 54
+[09-Jun-2025 09:49:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'product_id' in 'field list' in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php:55
+Stack trace:
+#0 C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php(55): mysqli->prepare('INSERT INTO rev...')
+#1 {main}
+  thrown in C:\xampp\htdocs\summit_home_appliancies\php_controllar\contraollers\feebacktake.php on line 55

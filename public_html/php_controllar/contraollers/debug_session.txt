@@ -1,0 +1,6 @@
+Array
+(
+    [user_id] => 18
+    [user_name] => sawan
+    [user_email] => sawan@gamail.com
+)
